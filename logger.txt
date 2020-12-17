@@ -1,0 +1,42 @@
+Thu Dec 17 11:42:48 2020 --- Thread 14412 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 14852 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 18056 was added to queue
+Thu Dec 17 11:42:48 2020 --- Created 10 threads. Pool user's capacity: 15. Reseved amount of threads: 100
+Thu Dec 17 11:42:48 2020 --- Thread 13368 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 18288 was added to queue
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- Thread 11780 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 6808 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 8344 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 19416 was added to queue
+Thu Dec 17 11:42:48 2020 --- Thread 2604 was added to queue
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:48 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:49 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added
+Thu Dec 17 11:42:50 2020 --- New task was added

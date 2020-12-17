@@ -1,0 +1,12 @@
+﻿  lab2.cpp
+D:\Работы\ОСИСП\ThreadPool\lab2\lab2.cpp(16,52): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+D:\Работы\ОСИСП\ThreadPool\lab2\lab2.cpp(37,27): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+D:\Работы\ОСИСП\ThreadPool\lab2\lab2.cpp(37,27): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+D:\Работы\ОСИСП\ThreadPool\lab2\lab2.cpp(38,31): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+D:\Работы\ОСИСП\ThreadPool\lab2\lab2.cpp(38,31): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+  Logger.cpp
+  TaskPair.cpp
+  Thread.cpp
+  ThreadPool.cpp
+  Создание кода...
+  lab2.vcxproj -> D:\Работы\ОСИСП\ThreadPool\x64\Debug\lab2.exe
